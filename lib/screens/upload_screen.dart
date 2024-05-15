@@ -42,10 +42,6 @@ class _upload_screenState extends State<upload_screen> {
 
   }
 
-  //Firebase storage instance
-
- // FirebaseStorage _firebaseStorage = FirebaseStorage.instance;
-//  DatabaseReference _databaseRef = FirebaseDatabase.instance.ref('post_data');
 
   //Firebase Database instance
 
